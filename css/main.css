@@ -51,68 +51,8 @@
   background-image: url("../img/woman-kitchen-journal.jpg");
 }
 
-.swiper-image-fullscreen-1 {
-  background-image: url("https://dummyimage.com/1920x1080/636363/8e8e8e");
-}
-
-.swiper-image-fullscreen-2 {
-  background-image: url("https://dummyimage.com/1920x1080/636363/8e8e8e");
-}
-
-.swiper-image-fullscreen-3 {
-  background-image: url("https://dummyimage.com/1920x1080/636363/8e8e8e");
-}
-
-.media-image-1 {
-  background-image: url("https://dummyimage.com/1000x1400/636363/8e8e8e");
-}
-
-.media-image-2 {
-  background-image: url("https://dummyimage.com/1000x1400/636363/8e8e8e");
-}
-
-.fullscreen-bg-1 {
-  background-image: url("https://dummyimage.com/1920x1080/636363/8e8e8e");
-}
-
-.fullscreen-bg-2 {
-  background-image: url("https://dummyimage.com/1920x1080/636363/8e8e8e");
-}
-
-.about-image {
-  background-image: url("../img/woman-journaling-bed.jpg");
-}
-
 .contact-image {
   background-image: url("../img/journal-flat-lay.jpg");
-}
-
-.blockquote {
-  background-image: url("");
-}
-
-.feature-image-1 {
-  background-image: url("../img/woman-journal-coffee.jpg");
-}
-
-.feature-image-2 {
-  background-image: url("../img/journal-flat-lay.jpg");
-}
-
-.feature-image-3 {
-  background-image: url("../img/woman-journaling-in-bed.jpeg");
-}
-
-.feature-image-4 {
-  background-image: url("../img/woman-phone-books.jpg");
-}
-
-.popup-image-1 {
-  background-image: url("../img/journal-flat-lay.jpg");
-}
-
-.popup-image-2 {
-  background-image: url("../img/woman-journal-portrait.jpg");
 }
 
 /* ------------------------------------------------*/
@@ -386,7 +326,7 @@ h1.large span {
 }
 
 .headline__btnholder {
-  margin-top: 3.4rem;
+  margin-top: 2.1rem;
 }
 
 h2 {
@@ -2020,7 +1960,7 @@ form .inputs-description {
 .content-block {
   position: relative;
   width: 100%;
-  margin-bottom: 6rem;
+  margin-bottom: 1rem;
   padding: 0 10%;
 }
 .content-block.grid-block {
